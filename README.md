@@ -1,4 +1,4 @@
-# Demo
+# lab2
 Program Requirements
 1. Basic requirement: output "keyword" statistics
 2. Advanced requirement: output the number of "switch case" structures, and output the number of "case" corresponding to each group
